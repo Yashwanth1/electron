@@ -1,9 +1,9 @@
 
 ```bash
 # Clone this repository
-git clone https://github.com/electron/electron-quick-start
+git clone https://github.com/Yashwanth1/electron.git
 # Go into the repository
-cd electron-quick-start
+cd electron
 # Install dependencies
 npm install
 # Run the app
